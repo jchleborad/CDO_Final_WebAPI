@@ -1,0 +1,21 @@
+{
+  "name": "angular-resource",
+  "version": "1.6.9-build.5527+sha.e942e1e",
+  "license": "MIT",
+  "main": "./angular-resource.js",
+  "ignore": [],
+  "dependencies": {
+    "angular": "1.6.9-build.5527+sha.e942e1e"
+  },
+  "homepage": "https://github.com/angular/bower-angular-resource",
+  "_release": "1.6.9-build.5527+sha.e942e1e",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.6.9-build.5527+sha.e942e1e",
+    "commit": "18b91632b5d0761d1ec31f7c3c87811fadf55c8b"
+  },
+  "_source": "https://github.com/angular/bower-angular-resource.git",
+  "_target": "v1.6.9-build.5527+sha.e942e1e",
+  "_originalSource": "angular-resource",
+  "_direct": true
+}

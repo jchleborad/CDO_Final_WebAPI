@@ -1,0 +1,4 @@
+﻿class LoginController {
+    constructor() {
+    }
+}

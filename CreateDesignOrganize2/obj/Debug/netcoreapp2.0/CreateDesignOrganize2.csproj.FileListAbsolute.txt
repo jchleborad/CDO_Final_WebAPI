@@ -1,0 +1,11 @@
+C:\Users\jchle\OneDrive\Documents\WebDevelopment\Programming\CreateDesignOrganize\CDOWebAPI\CreateDesignOrganize2\CreateDesignOrganize2\bin\Debug\netcoreapp2.0\CreateDesignOrganize2.deps.json
+C:\Users\jchle\OneDrive\Documents\WebDevelopment\Programming\CreateDesignOrganize\CDOWebAPI\CreateDesignOrganize2\CreateDesignOrganize2\bin\Debug\netcoreapp2.0\CreateDesignOrganize2.runtimeconfig.json
+C:\Users\jchle\OneDrive\Documents\WebDevelopment\Programming\CreateDesignOrganize\CDOWebAPI\CreateDesignOrganize2\CreateDesignOrganize2\bin\Debug\netcoreapp2.0\CreateDesignOrganize2.runtimeconfig.dev.json
+C:\Users\jchle\OneDrive\Documents\WebDevelopment\Programming\CreateDesignOrganize\CDOWebAPI\CreateDesignOrganize2\CreateDesignOrganize2\bin\Debug\netcoreapp2.0\CreateDesignOrganize2.dll
+C:\Users\jchle\OneDrive\Documents\WebDevelopment\Programming\CreateDesignOrganize\CDOWebAPI\CreateDesignOrganize2\CreateDesignOrganize2\obj\Debug\netcoreapp2.0\CreateDesignOrganize2.csprojResolveAssemblyReference.cache
+C:\Users\jchle\OneDrive\Documents\WebDevelopment\Programming\CreateDesignOrganize\CDOWebAPI\CreateDesignOrganize2\CreateDesignOrganize2\obj\Debug\netcoreapp2.0\CreateDesignOrganize2.csproj.CoreCompileInputs.cache
+C:\Users\jchle\OneDrive\Documents\WebDevelopment\Programming\CreateDesignOrganize\CDOWebAPI\CreateDesignOrganize2\CreateDesignOrganize2\obj\Debug\netcoreapp2.0\CreateDesignOrganize2.AssemblyInfoInputs.cache
+C:\Users\jchle\OneDrive\Documents\WebDevelopment\Programming\CreateDesignOrganize\CDOWebAPI\CreateDesignOrganize2\CreateDesignOrganize2\obj\Debug\netcoreapp2.0\CreateDesignOrganize2.AssemblyInfo.cs
+C:\Users\jchle\OneDrive\Documents\WebDevelopment\Programming\CreateDesignOrganize\CDOWebAPI\CreateDesignOrganize2\CreateDesignOrganize2\bin\Debug\netcoreapp2.0\CreateDesignOrganize2.pdb
+C:\Users\jchle\OneDrive\Documents\WebDevelopment\Programming\CreateDesignOrganize\CDOWebAPI\CreateDesignOrganize2\CreateDesignOrganize2\obj\Debug\netcoreapp2.0\CreateDesignOrganize2.dll
+C:\Users\jchle\OneDrive\Documents\WebDevelopment\Programming\CreateDesignOrganize\CDOWebAPI\CreateDesignOrganize2\CreateDesignOrganize2\obj\Debug\netcoreapp2.0\CreateDesignOrganize2.pdb

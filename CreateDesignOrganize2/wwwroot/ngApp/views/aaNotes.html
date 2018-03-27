@@ -1,0 +1,77 @@
+﻿<!--
+create models
+add models to applicationDbContext.cs
+add-migration 'name'
+update-database
+??Seed data (last)??
+
+//do a project build prior to migration to ensure project builds
+
+//watch for something like "aspnet users already exist as a table - re-build database", 
+    so delete all files in Migration folder (NOT ApplicationDbContext)
+//in SQL Obj Exp right-click on name of DB and delete - check box "close existing connection"
+    should be checked prior to delete
+    then add-migration and update-database
+
+//Inheriting from a parent class might be the better way to go. Each of the classes might have individual 
+    specifics (like shown above, obviously these are just guesses since I don't know anything about bullet 
+    journaling haha), but the parent Page class has the info that all of them will have. Then your code is 
+    DRY (don't repeat yourself) and you still have each separate class' table in the database.
+    
+    public class Page
+{
+	public int ID { get; set; }
+	public string Size { get; set; }
+	public string Title { get; set; }
+	public string Type { get; set; }
+}
+
+public class Planner : Page
+{
+	public string? Month { get; set; }
+	public string? Year { get; set; }
+}
+
+public class Fitness : Page
+{
+	public string Activity { get; set; }
+}
+
+public class Lifestyle : Page
+{
+	public bool IsToDoList { get; set; }
+	public bool IsChart { get; set; }
+	public bool IsBlank { get; set; }
+}
+ 
+
+
+public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
+{
+	public DbSet<Planner> Planners { get; set; }
+	public DbSet<Fitness> Fitnessa { get; set; }
+	public DbSet<Lifestyle> Lifestyles { get; set; }
+}
+
+
+//Dropdown Buttons
+ // html:
+<select 
+  class="btn-primary btn"
+  ng-model="controller.selectedFruit" 
+  ng-options="f for f in controller.fruits" 
+  ng-init="controller.selectedFruit = controller.fruits[0]">
+</select>
+
+// controller.js
+constructor() {
+    this.selectedFruit = '';
+    this.fruits = ['Choose one', 'apples', 'oranges', 'kiwis'];
+  }
+
+
+
+
+
+
+-->
